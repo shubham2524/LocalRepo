@@ -1,1 +1,1 @@
-this is my local repository .we are pushinh from system to github this is in feature1git 
+this is my local repository .we are pushinh from system to github.
